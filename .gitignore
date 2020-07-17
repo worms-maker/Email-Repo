@@ -1,5 +1,14 @@
+# Ignore ".Settings" Directory
 .settings/
+
+# Ignore All Class file
 *.class
+
+# Ignore Bin Directory
 bin/
+
+# Ignore ".classpath" Directory
 *.classpath
+
+# Ignore ".project" Directory
 *.project
